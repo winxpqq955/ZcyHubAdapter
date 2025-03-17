@@ -1,0 +1,4 @@
+name: ZcyHubAdapter
+version: '1.0-SNAPSHOT'
+main: me.ho3.zcyHubAdapter.ZcyHubAdapter
+api-version: '1.20'
